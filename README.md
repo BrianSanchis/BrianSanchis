@@ -28,4 +28,4 @@ This is a test to see if i can do the icon-file svg
 
 ### Web brownser 
 
-<img src ="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logo-color=EE4C2C"></img> <img src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logo-color=EE4C2C"></img> <img src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logo-color=EE4C2C"></img>
+<img src ="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logo-color=white"></img> 
