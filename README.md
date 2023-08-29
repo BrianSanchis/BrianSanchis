@@ -6,15 +6,11 @@ This is a test to see if i can do the icon-file svg
 
 ### Web Langages 
 
-<img src ="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> </img><img src ="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"></img>
-
-<img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"></img>
+<img src ="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"> </img><img src ="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"></img> <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"></img>
 
 ### Programming langages
 
-<img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></img> 
-
-<img src ="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white"></img>
+<img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></img> <img src ="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white"></img>
 
 ### Framework
 
@@ -22,9 +18,7 @@ This is a test to see if i can do the icon-file svg
 
 ### Oriented programming langages
 
-<img src ="https://img.shields.io/badge/Csharp-A100FF?style=for-the-badge&logo=Csharp&logoColor=white"></img>
-
-<img src ="https://img.shields.io/badge/Java-FF6A00?style=for-the-badge&logo=java15&logo-color=EE4C2C"></img>
+<img src ="https://img.shields.io/badge/Csharp-A100FF?style=for-the-badge&logo=Csharp&logoColor=white"></img> <img src ="https://img.shields.io/badge/Java-FF6A00?style=for-the-badge&logo=java15&logo-color=EE4C2C"></img>
 
 ## Social network
 
