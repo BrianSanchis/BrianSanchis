@@ -22,7 +22,7 @@ This is a test to see if i can do the icon-file svg
 
 ## Social network
 
-<img src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logo-color=EE4C2C"></img>
+<a href="https://www.linkedin.com/in/sanchis-brian-641201206/"><img src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logo-color=EE4C2C"></img></a>
 
 ## Stats
 
