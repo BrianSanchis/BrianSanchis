@@ -37,6 +37,9 @@ Hi, my name is Brian, i have 23 years old and i am a IT stutend at l'institution
   <img src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logo-color=EE4C2C"></img>
 </a>
 
+# Steps
+
+
 # Stats
 
 <div align="center" style="display: flex; justify-content: space-around;">
