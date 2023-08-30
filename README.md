@@ -1,5 +1,7 @@
 <div  align="center">
   <h1>Brian Sanchis</h1>
+  <h2>BTS SIO2</h2>
+  <h3>2023-2024</h3>
   
   <picture>
     <source media="(max-width: 767px)" srcset="">
