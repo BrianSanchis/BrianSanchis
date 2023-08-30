@@ -24,10 +24,9 @@ This is a test to see if i can do the icon-file svg
 
 <img src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logo-color=EE4C2C"></img>
 
-## My personnal tools
+## Stats
 
-<img src ="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=ProtonMail&logo-color=white"></img> <img src ="https://img.shields.io/badge/ProtonVPN-66DEB1?style=for-the-badge&logo=ProtonVPN&logo-color=white"></img> 
-
-### Web brownser 
-
-<img src ="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logo-color=black"></img> 
+<div align="center" style="display: flex; justify-content: space-around;">
+  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=BrianSanchis&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=BrianSanchis&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
+</div>
