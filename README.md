@@ -26,6 +26,8 @@ This is a test to see if i can do the icon-file svg
 
 ## My personnal tools
 
+<img src ="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=ProtonMail&logo-color=black"></img> <img src ="https://img.shields.io/badge/ProtonVPN-66DEB1?style=for-the-badge&logo=ProtonVPN&logo-color=black"></img> 
+
 ### Web brownser 
 
 <img src ="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logo-color=black"></img> 
