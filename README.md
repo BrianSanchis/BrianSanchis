@@ -31,7 +31,7 @@ Hi, my name is Brian, i have 23 years old and i am a IT stutend at l'institution
 
 <img src ="https://img.shields.io/badge/Csharp-A100FF?style=for-the-badge&logo=Csharp&logoColor=white"></img> <img src ="https://img.shields.io/badge/Java-FF6A00?style=for-the-badge&logo=java15&logo-color=EE4C2C"></img>
 
-# Social network
+# Professional Social network
 
 <a href="https://www.linkedin.com/in/sanchis-brian-641201206/">
   <img src ="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logo-color=EE4C2C"></img>
