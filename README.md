@@ -1,6 +1,6 @@
 <div  align="center">
   <h1>Brian Sanchis</h1>
-  <h2>BTS SIO2</h2>
+  <h2>Computer Science Student</h2>
   <h3>2023-2024</h3>
   
   <picture>
@@ -9,7 +9,7 @@
   </picture>
 </div>
 
-# Présentation
+# About me ?
 
 Hi, my name is Brian, i have 23 years old and i am a IT stutend at l'institution les chartreux in France. You can find all my personnal project on this git. Enjoy ! ;)
 
